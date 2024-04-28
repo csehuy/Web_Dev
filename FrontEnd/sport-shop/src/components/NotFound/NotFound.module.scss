@@ -1,0 +1,12 @@
+@import "../../styles/media.scss";
+
+img {
+  width: 60%;
+
+  @include pcAndTablet {
+    width: 80%;
+  }
+  @include smallMobile {
+    width: 100%;
+  }
+}
