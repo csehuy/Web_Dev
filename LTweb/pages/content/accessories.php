@@ -57,7 +57,7 @@
     "
     <nav aria-label='Page navigation example' class='float-end pt-3 d-flex justify-content-center'>
         <ul class='pagination'>
-            <a class='page-link' href='?contentmenu=tatcasanpham&page=".($page > 1 ? $page - 1 : $page)."''><li class='page-item disabled'>Previous</li></a>
+            <a class='page-link' href='?contentmenu=phukienbongda&page=".($page > 1 ? $page - 1 : $page)."''><li class='page-item disabled'>Previous</li></a>
     ";
     for($i = 1; $i <= $pageCounter; $i++){
         echo
@@ -68,7 +68,7 @@
 
     echo 
     "
-    <a class='page-link' href='?contentmenu=tatcasanpham&page=".($page < $pageCounter ? $page + 1 : $page)."''><li class='page-item disabled'>Next</li></a>
+    <a class='page-link' href='?contentmenu=phukienbongda&page=".($page < $pageCounter ? $page + 1 : $page)."''><li class='page-item disabled'>Next</li></a>
         </ul> 
     </nav>  
     ";

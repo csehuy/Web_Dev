@@ -6,13 +6,13 @@
     </div>
     <div class="carousel-inner">
         <div class="carousel-item active">
-            <img src="https://bizweb.dktcdn.net/100/218/328/themes/551311/assets/slider-2.jpg?1671759154106" class="d-block w-100" alt="...">
+            <img src="./images/carousel10.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="https://bizweb.dktcdn.net/100/218/328/themes/551311/assets/slider-3.jpg?1671759154106" class="d-block w-100" alt="...">
+            <img src="./images/carousel11.png" class="d-block w-100" alt="...">
         </div>
         <div class="carousel-item">
-            <img src="https://bizweb.dktcdn.net/100/218/328/themes/551311/assets/slider-2.jpg?1671759154106" class="d-block w-100" alt="...">
+            <img src="./images/carousel12.png" class="d-block w-100" alt="...">
         </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
